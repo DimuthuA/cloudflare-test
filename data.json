@@ -1,0 +1,12 @@
+{
+  "title": "Cloudflare Worker Demo - Attempt 02",
+  "description": "A simple JSON service for testing Cloudflare Workers and caching.",
+  "indices": [
+    {
+      "index": "ASPI",
+      "price": 10756,
+      "day": -0.25,
+      "year": 23.08
+    }
+  ]
+}
