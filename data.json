@@ -1,5 +1,5 @@
 {
-  "title": "Cloudflare Worker Demo - Attempt 02",
+  "title": "Cloudflare Worker Demo",
   "description": "A simple JSON service for testing Cloudflare Workers and caching.",
   "indices": [
     {
